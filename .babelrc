@@ -1,0 +1,7 @@
+{
+  "plugins":[
+    ["./plugins/plugin.js",{
+      "foo":"bar"
+    }]
+  ]
+}
