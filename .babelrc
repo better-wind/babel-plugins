@@ -1,8 +1,7 @@
 {
   "plugins":[
     ["./plugins/plugin.js",{
-      "foo":"bar",
-      "AAA":"BBB"
+      "foo":"bar"
     }]
   ]
 }
